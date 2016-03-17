@@ -1,4 +1,4 @@
-# state-attorneys-general
+# U.S. State Attorneys General
 
 Hand-pulled public data on U.S. State Attorneys General
 
