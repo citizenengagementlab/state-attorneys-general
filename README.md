@@ -1,6 +1,6 @@
 # U.S. State Attorneys General
 
-Hand-pulled public data on U.S. State Attorneys General
+Hand-pulled (and scraped) public data on U.S. State Attorneys General
 
 *Notes:*
 - Twitter handle for the A.G. public identity is included where one could be found
