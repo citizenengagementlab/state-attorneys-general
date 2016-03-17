@@ -82,7 +82,8 @@
         "website": "http://ag.ca.gov/",
         "twitter_handle": "KamalaHarris",
         "name_middle": "D."
-    },    {
+    },    
+    {
         "href": "http://www.naag.org/naag/attorneys-general/whos-my-ag/colorado/cynthia-coffman.php",
         "political_party": "R",
         "name_given": "Cynthia",
@@ -176,9 +177,23 @@
         "terms": "Elected: 2002, 2006, 2010, 2014",
         "address": "James R. Thompson Ctr., 100 W. Randolph St., Chicago, IL 60601",
         "phone": "(312) 814-3000",
-        "website": "http://illinoisattorneygeneral.gov/",
-        "twitter_handle": "@LisaMadigan",
-        "name_middle": "http://www.naag.org/naag/attorneys-general/whos-my-ag/indiana/greg-zoeller.php"
+        "website": "http://illinoisattorneygeneral.gov",
+        "twitter_handle": "LisaMadigan",
+        "name_middle": ""
+    },
+    {
+        "href": "http://www.naag.org/naag/attorneys-general/whos-my-ag/indiana/greg-zoeller.php",
+        "political_party": "R",
+        "name_given": "Greg",
+        "name_family": "Zoeller",
+        "name_full": "Greg Zoeller",
+        "title": "Indiana",
+        "terms": "Elected: 2008, 2012, 2012, 2014",
+        "address": "Indiana Government Center South - 5th Floor, 302 West Washington Street, Indianapolis, IN 46204",
+        "phone": "(317) 232-6201",
+        "website": "http://www.in.gov/attorneygeneral/",
+        "twitter_handle": "INATTYGENERAL",
+        "name_middle": ""
     },
     {
         "href": "http://www.naag.org/naag/attorneys-general/whos-my-ag/kansas/derek-schmidt.php",
