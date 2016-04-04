@@ -123,7 +123,21 @@
         "phone": "(302) 577-8338",
         "website": "http://attorneygeneral.delaware.gov/",
         "twitter_handle": "matt_denn",
-        "name_middle": "http://www.naag.org/naag/attorneys-general/whos-my-ag/district_of_columbia/karl-racine.php"
+        "name_middle": ""
+    },
+    {
+        "href": "http://www.naag.org/naag/attorneys-general/whos-my-ag/district_of_columbia/karl-racine.php",
+        "political_party": "D",
+        "name_given": "Karl",
+        "name_family": "Racine",
+        "name_full": "Karl A. Racine",
+        "title": "District of Columbia",
+        "terms": "Elected: 2014",
+        "address": "441 4th Street, NW, Suite 1100S, Washington, DC 20001",
+        "phone": "(202) 727-3400",
+        "website": "http://oag.dc.gov/",
+        "twitter_handle": "agkarlracine",
+        "name_middle": "A."
     },
     {
         "href": "http://www.naag.org/naag/attorneys-general/whos-my-ag/florida/pam-bondi.php",
@@ -140,19 +154,47 @@
         "name_middle": ""
     },
     {
+        "href": "http://www.naag.org/naag/attorneys-general/whos-my-ag/georgia/sam-olens.php",
+        "political_party": "R",
+        "name_given": "Sam",
+        "name_family": "Olens",
+        "name_full": "Sam Olens",
+        "title": "Georgia",
+        "terms": "Elected: 2010, 2014",
+        "address": "40 Capitol Square, SW, Atlanta, GA 30334-1300",
+        "phone": "(404) 656-3300",
+        "website": "http://law.ga.gov/",
+        "twitter_handle": "samolens",
+        "name_middle": ""
+    },
+    {
         "href": "http://www.naag.org/naag/attorneys-general/whos-my-ag/guam/elizabeth-barrett-anderson.php",
         "political_party": "",
         "name_given": "Elizabeth",
         "name_family": "Barrett-Anderson",
         "name_full": "Elizabeth Barrett-Anderson",
-        "title": "Guam ",
+        "title": "Guam",
         "terms": "Elected: 2014",
         "address": "Office of the Attorney General, ITC Building, 590 S. Marine Corps Dr, Ste. 706, Tamuning, Guam 96913",
         "phone": "",
         "website": "http://www.guamag.org/",
         "twitter_handle": "",
-        "name_middle": "http://www.naag.org/naag/attorneys-general/whos-my-ag/hawaii/douglas-s.-chin.php"
+        "name_middle": ""
     },
+    {
+        "href": "http://www.naag.org/naag/attorneys-general/whos-my-ag/hawaii/douglas-s.-chin.php",
+        "political_party": "D",
+        "name_given": "Douglas",
+        "name_family": "Chin",
+        "name_full": "Douglas S. Chin",
+        "title": "Hawaii",
+        "terms": "Appointed: 2015",
+        "address": "425 Queen St., Honolulu, HI 96813",
+        "phone": "(808) 586-1500",
+        "website": "http://ag.hawaii.gov/",
+        "twitter_handle": "",
+        "name_middle": "S."
+    },    
     {
         "href": "http://www.naag.org/naag/attorneys-general/whos-my-ag/idaho/lawrence-wasden.php",
         "political_party": "R",
